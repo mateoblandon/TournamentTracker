@@ -8,3 +8,7 @@ C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\o
 C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
 C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\blandonm\Documents\VS 2019 Matt\Proyectos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources

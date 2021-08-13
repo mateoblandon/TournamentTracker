@@ -6,17 +6,17 @@ using System.Windows.Forms;
 
 namespace TrackerUI
 {
-    static class Program
+  internal static class Program
+  {
+    /// <summary>
+    /// Punto de entrada principal para la aplicación.
+    /// </summary>
+    [STAThread]
+    private static void Main()
     {
-        /// <summary>
-        /// Punto de entrada principal para la aplicación.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TournamentViewerForm());
-        }
+      Application.EnableVisualStyles();
+      Application.SetCompatibleTextRenderingDefault(false);
+      Application.Run(new TournamentDashboardForm());
     }
+  }
 }
