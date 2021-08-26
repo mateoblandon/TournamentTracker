@@ -2,6 +2,7 @@
 {
   public class PrizeModel
   {
+    public int id { get; set; }
     public int PlaceNumber { get; set; }
     public string PlaceName { get; set; }
     public decimal PrizeAmount { get; set; }
